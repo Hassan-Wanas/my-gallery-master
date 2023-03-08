@@ -10,6 +10,7 @@ module.exports = {
         Gray2: '#BDBDBD',
         Gray3: '#A9A9A9',
         Gray4: '#4E5150',
+        Gray5: '#B9BDCF',
       }
     },
     fontFamily: {
